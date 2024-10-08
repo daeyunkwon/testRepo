@@ -17,6 +17,10 @@ class ViewController: UIViewController {
     func a() {
         
     }
+    
+    func b() {
+        
+    }
 
 
 }
