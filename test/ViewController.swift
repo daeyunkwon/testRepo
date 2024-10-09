@@ -25,6 +25,7 @@ class ViewController: UIViewController {
     func ppp() {
         print("pppp")
         print("pppp")
+        print("pppp")
     }
     
     func d() {
@@ -40,7 +41,7 @@ class ViewController: UIViewController {
     }
 
     func g() {
-        
+        print("gggg")
     }
 
 
