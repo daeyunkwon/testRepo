@@ -22,8 +22,10 @@ class ViewController: UIViewController {
         
     }
     
-    func ccc() {
-        
+    func ppp() {
+        print("pppp")
+        print("pppp")
+        print("pppp")
     }
     
     func d() {
@@ -33,9 +35,13 @@ class ViewController: UIViewController {
     func f() {
         
     }
+    
+    func h() {
+        
+    }
 
     func g() {
-        
+        print("gggg")
     }
 
 
