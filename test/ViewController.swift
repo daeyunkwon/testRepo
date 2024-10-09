@@ -24,6 +24,7 @@ class ViewController: UIViewController {
     
     func ppp() {
         print("pppp")
+        print("pppp")
     }
     
     func d() {
