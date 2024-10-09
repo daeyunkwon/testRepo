@@ -10,4 +10,5 @@ import Foundation
 
 class New {
     var tt: String = ""
+    var ss: String = ""
 }
